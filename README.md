@@ -1,5 +1,5 @@
 # ConstruyeBD
-Este es un curso de apoyo para el Submódulo de Construye Bases de Datos para aplicaciones Web
+Este es un curso de apoyo para descargar recursos del Submódulo de Construye Bases de Datos para aplicaciones Web.
 
 Bienvenidos
 
